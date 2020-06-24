@@ -1,5 +1,5 @@
 
-
+//This is just a test
 /**
  * Defines the a singly-linked list class
  * @author Bhargavi Kumar Sundaresan
@@ -17,7 +17,7 @@ public class List {
  this.next = null;
  }
  }
- 
+ //Unnecessary test 2
  private int length;
  private Node first;
  private Node last;
